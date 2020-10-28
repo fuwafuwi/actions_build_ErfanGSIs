@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://jaist.dl.sourceforge.net/project/havoc-os/arm64-ab/Havoc-OS-v3.8-20200821-Official-arm64-ab.img.xz
-  ROM_NAME: romtest
+  ROM_NAME: Generic
   TZ: Asia/Shanghai
 
 jobs:
